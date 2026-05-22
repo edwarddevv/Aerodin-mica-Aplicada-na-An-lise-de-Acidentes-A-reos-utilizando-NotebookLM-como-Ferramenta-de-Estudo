@@ -62,14 +62,21 @@ Principais tópicos analisados:
 ---
 
 # Engenharia de Prompts
-
 ## Prompt 1
-
-> Qual foi a dinâmica do acidente ocorrido com a aeronave da Air France no voo AF447? Demonstre, com vocabulário de fácil compreensão, suas principais causas e efeitos.
+> Qual foi a dinâmica do acidente ocorrido com a aeronave da Air France no voo AF447?
+Demonstre, com vocabulário de fácil compreensão, suas principais causas e efeitos.
 
 ### Resultado Obtido
+Resumidamente, a IA explicou: A dinâmica do acidente do voo AF447 da Air France envolveu uma
+combinação de falhas técnicas e erros humanos durante uma tempestade sobre o Oceano Atlântico.
+O problema começou quando cristais de gelo congelaram as sondas Pitot da aeronave, responsáveis 
+por medir a velocidade do avião. Isso causou informações incorretas no painel e levou ao
+desligamento automático do piloto automático. Surpreendido pela situação, um dos copilotos
+puxou excessivamente o manche para trás,aumentando o ângulo de ataque da aeronave até
+ultrapassar o limite crítico de sustentação.Com isso, o Airbus A330 entrou em stall (estol),
+perdendo sustentação aerodinâmica e iniciando uma queda prolongada até o impacto com o oceano.
 
-A IA explicou:
+Tendo como causas do acidente:
 - congelamento das sondas Pitot;
 - perda de velocidade indicada;
 - desconexão do piloto automático;
@@ -78,9 +85,8 @@ A IA explicou:
 - perda de sustentação da aeronave.
 
 ### Aprendizados
-
-Foi possível compreender como falhas de instrumentação e erros de interpretação podem levar uma aeronave ao estol em alta altitude.
-
+Consegui compreender como falhas de instrumentação, erros de interpretação e desorientação
+espacial podem levar uma aeronave ao stall em alta altitude.
 ---
 
 ## Prompt 2
