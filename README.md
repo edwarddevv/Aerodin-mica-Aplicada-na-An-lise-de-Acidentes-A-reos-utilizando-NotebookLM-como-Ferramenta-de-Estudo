@@ -91,26 +91,31 @@ espacial podem levar uma aeronave ao stall em alta altitude.
 
 ## Prompt 2
 
-> Explique detalhadamente o porque a elevação repentina do ângulo de ataque levou a aeronave a situação descrita como stall.
+> Explique detalhadamente o porque a elevação repentina do ângulo de ataque levou a aeronave a
+situação descrita como stall.
 
 ### Resultado Obtido
 
-A IA explicou:
-- separação do fluxo de ar;
-- ângulo crítico;
+Resumidamente, a IA explicou que o ângulo de ataque (AOA) representa o ângulo entre a asa da
+aeronave e o vento relativo. Durante condições normais de voo, o ar flui suavemente sobre as
+asas, gerando sustentação. Porém, quando o ângulo de ataque aumenta excessivamente, o fluxo de
+ar deixa de acompanhar a superfície da asa e se separa dela.
+Esse fenômeno gera:
 - perda de sustentação;
 - aumento de arrasto;
-- comportamento aerodinâmico durante o estol.
+- turbulência sobre as asas;
+- entrada em stall (estol).
+A IA também destacou que o stall não ocorre apenas por baixa velocidade, mas principalmente
+pelo excesso de ângulo de ataque.
 
 ### Aprendizados
-
 Foi possível entender que o stall ocorre principalmente devido ao excesso de ângulo de ataque, e não apenas pela baixa velocidade.
-
 ---
 
 ## Prompt 3
-
-> Levando em consideração os relatórios finais dos órgãos de investigações aeronáuticas disponibilizados em sua base de dados, compare, de forma detalhada, o acidente da Air France com o da Voepass, explique suas diferenças técnicas e causas.
+> Levando em consideração os relatórios finais dos órgãos de investigações aeronáuticas
+disponibilizados em sua base de dados, compare, de forma detalhada, o acidente da Air France
+com o da Voepass, explique suas diferenças técnicas e causas.
 
 ### Resultado Obtido
 
