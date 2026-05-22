@@ -1,1 +1,188 @@
-# Aerodin-mica-Aplicada-na-An-lise-de-Acidentes-A-reos-utilizando-NotebookLM-como-Ferramenta-de-Estudo
+# Aerodinâmica Aplicada a Acidentes Aéreos
+
+## Sobre o Projeto
+
+Este projeto foi desenvolvido como atividade prática para o Bootcamp
+Afya - Automação de Dados com IA utilizando o NotebookLM como ferramenta de apoio ao
+aprendizado.
+------------------------------------------------------------------------
+O objetivo principal foi estudar conceitos de aerodinâmica aplicados a acidentes aéreos reais,
+utilizando Inteligência Artificial para compreender eventos,fenômenos físicos. Com o intuito de
+adquirir uma melhor compreensão sobre segurança aeronáutica.
+---
+
+# Objetivos
+
+- Compreender conceitos fundamentais de aerodinâmica;
+- Relacionar conceitos aerodinâmicos e acidentes aéreos reais;
+- Utilizar o NotebookLM como ferramenta de aprendizagem;
+- Desenvolver pensamento crítico sobre investigação aeronáutica;
+- Praticar engenharia de prompts utilizando NotebookLM.
+---
+
+# Conceitos Estudados
+
+- Sustentação (Lift)
+- Arrasto (Drag)
+- Ângulo de ataque (AOA)
+- Stall (Estol)
+- Fluxo de ar
+- Formação de gelo
+- Estol assimétrico
+- Parafuso Chato (Flat Spin)
+- Autorrotação
+- Perda de controle em voo
+---
+
+# Acidentes Estudados
+## Air France 447
+Principais tópicos analisados:
+- congelamento das sondas Pitot;
+- perda de velocidade indicada;
+- desconexão do piloto automático;
+- estol em alta altitude;
+- fatores humanos.
+---
+## Voepass 2283
+Principais tópicos analisados:
+- formação de gelo nas superfícies aerodinâmicas;
+- degradação de sustentação;
+- estol assimétrico;
+- autorrotação;
+- flat spin.
+---
+
+# Fontes Utilizadas
+
+1. https://bea.aero
+2. https://www.gov.br/cenipa
+3. https://skybrary.aero
+4. https://www.faa.gov
+5. https://www.ntsb.gov
+---
+
+# Engenharia de Prompts
+
+## Prompt 1
+
+> Qual foi a dinâmica do acidente ocorrido com a aeronave da Air France no voo AF447? Demonstre, com vocabulário de fácil compreensão, suas principais causas e efeitos.
+
+### Resultado Obtido
+
+A IA explicou:
+- congelamento das sondas Pitot;
+- perda de velocidade indicada;
+- desconexão do piloto automático;
+- aumento excessivo do ângulo de ataque;
+- entrada em stall;
+- perda de sustentação da aeronave.
+
+### Aprendizados
+
+Foi possível compreender como falhas de instrumentação e erros de interpretação podem levar uma aeronave ao estol em alta altitude.
+
+---
+
+## Prompt 2
+
+> Explique detalhadamente o porque a elevação repentina do ângulo de ataque levou a aeronave a situação descrita como stall.
+
+### Resultado Obtido
+
+A IA explicou:
+- separação do fluxo de ar;
+- ângulo crítico;
+- perda de sustentação;
+- aumento de arrasto;
+- comportamento aerodinâmico durante o estol.
+
+### Aprendizados
+
+Foi possível entender que o stall ocorre principalmente devido ao excesso de ângulo de ataque, e não apenas pela baixa velocidade.
+
+---
+
+## Prompt 3
+
+> Levando em consideração os relatórios finais dos órgãos de investigações aeronáuticas disponibilizados em sua base de dados, compare, de forma detalhada, o acidente da Air France com o da Voepass, explique suas diferenças técnicas e causas.
+
+### Resultado Obtido
+
+A IA comparou:
+- falha de sensores no AF447;
+- formação de gelo estrutural no acidente da Voepass;
+- diferenças aerodinâmicas;
+- comportamento da automação;
+- dinâmica de estol;
+- fatores humanos.
+
+### Aprendizados
+
+Foi possível compreender como acidentes diferentes podem envolver fenômenos aerodinâmicos distintos, mesmo possuindo condições meteorológicas semelhantes.
+
+---
+
+## Prompt 4
+
+> Qual o motivo do parafuso chato (flat spin) ocorrido na aeronave envolvida no acidente da Voepass ser uma condição extremamente difícil de ser recuperada?
+
+### Resultado Obtido
+
+A IA explicou:
+- autorrotação;
+- perda de eficiência do leme;
+- estol das superfícies de controle;
+- influência da distribuição de massa;
+- ausência de vento relativo suficiente.
+
+### Aprendizados
+
+Foi possível compreender por que o flat spin é uma das condições mais perigosas da aviação.
+
+---
+
+# Dificuldades Encontradas
+
+- Alguns conceitos aerodinâmicos eram muito técnicos;
+- Certos prompts geravam respostas genéricas inicialmente;
+- Foi necessário refinar perguntas para obter respostas mais detalhadas;
+- Alguns termos exigiram pesquisa complementar para melhor entendimento.
+
+---
+
+# Glossário
+
+## Stall (Estol)
+Perda de sustentação causada pelo excesso de ângulo de ataque.
+
+## Ângulo de Ataque
+Ângulo entre a asa da aeronave e o vento relativo.
+
+## Lift
+Força responsável por sustentar a aeronave no ar.
+
+## Drag
+Resistência aerodinâmica ao avanço da aeronave.
+
+## Flat Spin
+Parafuso chato caracterizado por rotação estabilizada e baixa capacidade de recuperação.
+
+## Autorrotação
+Fenômeno em que diferenças aerodinâmicas entre as asas mantêm a rotação contínua da aeronave.
+
+---
+
+# Conclusão
+
+O projeto demonstrou como conceitos de aerodinâmica podem ser aplicados na compreensão de acidentes aéreos reais.
+
+Além disso, mostrou como ferramentas de Inteligência Artificial podem auxiliar no aprendizado técnico, na investigação de fenômenos complexos e na construção de conhecimento de forma ativa e organizada.
+
+---
+
+# Tecnologias e Ferramentas Utilizadas
+
+- NotebookLM
+- GitHub
+- Markdown
+- Inteligência Artificial Generativa
