@@ -71,10 +71,10 @@ Resumidamente, a IA explicou: A dinâmica do acidente do voo AF447 da Air France
 combinação de falhas técnicas e erros humanos durante uma tempestade sobre o Oceano Atlântico.
 O problema começou quando cristais de gelo congelaram as sondas Pitot da aeronave, responsáveis 
 por medir a velocidade do avião. Isso causou informações incorretas no painel e levou ao
-desligamento automático do piloto automático. Surpreendido pela situação, um dos copilotos
-puxou excessivamente o manche para trás,aumentando o ângulo de ataque da aeronave até
-ultrapassar o limite crítico de sustentação.Com isso, o Airbus A330 entrou em stall (estol),
-perdendo sustentação aerodinâmica e iniciando uma queda prolongada até o impacto com o oceano.
+desligamento involuntário do piloto automático. Surpreendido pela situação, o copiloto
+iniciou uma manobra excessiva no manche para trás,aumentando o ângulo de ataque da aeronave até
+ultrapassar o limite crítico de sustentação. Com isso, a aeronave entrou em stall (estol),
+perdendo sustentação aerodinâmica e iniciando uma queda até atingir o oceano.
 
 Tendo como causas do acidente:
 - congelamento das sondas Pitot;
@@ -97,10 +97,10 @@ situação descrita como stall.
 ### Resultado Obtido
 
 Resumidamente, a IA explicou que o ângulo de ataque (AOA) representa o ângulo entre a asa da
-aeronave e o vento relativo. Durante condições normais de voo, o ar flui suavemente sobre as
-asas, gerando sustentação. Porém, quando o ângulo de ataque aumenta excessivamente, o fluxo de
-ar deixa de acompanhar a superfície da asa e se separa dela.
-Esse fenômeno gera:
+aeronave e o vento relativo. Durante condições normais, o ar passa sobre as
+asas, gerando sustentação. Porém, quando o ângulo de ataque aumenta de forma excessiva, o fluxo
+de ar deixa de acompanhar a superfície da asa e se separa dela, formando uma corrente de ar
+turbelenta. Esse fenômeno gera:
 - perda de sustentação;
 - aumento de arrasto;
 - turbulência sobre as asas;
@@ -109,7 +109,8 @@ A IA também destacou que o stall não ocorre apenas por baixa velocidade, mas p
 pelo excesso de ângulo de ataque.
 
 ### Aprendizados
-Foi possível entender que o stall ocorre principalmente devido ao excesso de ângulo de ataque, e não apenas pela baixa velocidade.
+Foi possível entender que o stall ocorre principalmente devido ao excesso de ângulo de ataque,
+e não apenas pela baixa velocidade.
 ---
 
 ## Prompt 3
