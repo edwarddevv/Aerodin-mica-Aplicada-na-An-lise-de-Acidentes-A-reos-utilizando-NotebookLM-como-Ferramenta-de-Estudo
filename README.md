@@ -100,7 +100,7 @@ Resumidamente, a IA explicou que o ângulo de ataque (AOA) representa o ângulo 
 aeronave e o vento relativo. Durante condições normais, o ar passa sobre as
 asas, gerando sustentação. Porém, quando o ângulo de ataque aumenta de forma excessiva, o fluxo
 de ar deixa de acompanhar a superfície da asa e se separa dela, formando uma corrente de ar
-turbelenta. Esse fenômeno gera:
+turbulenta. Esse fenômeno gera:
 - perda de sustentação;
 - aumento de arrasto;
 - turbulência sobre as asas;
@@ -159,7 +159,7 @@ Durante o flat spin:
 - ocorre autorrotação contínua.
 A IA também explicou que o ATR 72-500 perdeu velocidade horizontal suficiente para que o leme
 pudesse gerar força aerodinâmica capaz de interromper a rotação.
-Além disso, a distribuição de massa da aeronave ajudaram a manter o avião em uma atitude quase
+Além disso, a distribuição de massa da aeronave ajudou a manter o avião em uma atitude quase
 plana, dificultando ainda mais a recuperação.
 
 ### Aprendizados
