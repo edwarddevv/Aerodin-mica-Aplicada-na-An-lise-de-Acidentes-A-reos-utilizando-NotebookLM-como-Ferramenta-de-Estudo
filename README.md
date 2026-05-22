@@ -120,81 +120,82 @@ com o da Voepass, explique suas diferenças técnicas e causas.
 
 ### Resultado Obtido
 
-A IA comparou:
-- falha de sensores no AF447;
-- formação de gelo estrutural no acidente da Voepass;
-- diferenças aerodinâmicas;
-- comportamento da automação;
-- dinâmica de estol;
-- fatores humanos.
+A IA comparou de forma técnica os dois acidentes, destacando diferenças importantes na origem
+dos problemas. No acidente do AF447:
+- ocorreu congelamento das sondas Pitot;
+- houve perda de informações confiáveis de velocidade;
+- o piloto automático foi desconectado;
+- a tripulação elevou excessivamente o ângulo de ataque;
+- a aeronave entrou em stall em alta altitude.
+Já no acidente da Voepass:
+- ocorreu acúmulo de gelo diretamente nas asas e superfícies aerodinâmicas;
+- houve degradação física da sustentação;
+- o piloto automático aumentou automaticamente o ângulo de ataque;
+- a aeronave sofreu estol assimétrico;
+- ocorreu autorrotação e flat spin.
+A IA também destacou diferenças:
+- na automação das aeronaves;
+- nos fatores humanos;
+- no comportamento aerodinâmico;
+- na dinâmica da queda.
 
 ### Aprendizados
-
-Foi possível compreender como acidentes diferentes podem envolver fenômenos aerodinâmicos distintos, mesmo possuindo condições meteorológicas semelhantes.
-
+Aprendi que acidentes aparentemente semelhantes podem possuir causas completamente diferentes.
 ---
 
 ## Prompt 4
 
-> Qual o motivo do parafuso chato (flat spin) ocorrido na aeronave envolvida no acidente da Voepass ser uma condição extremamente difícil de ser recuperada?
+> Qual o motivo do parafuso chato (flat spin) ocorrido na aeronave envolvida no acidente da
+Voepass ser uma condição extremamente difícil de ser recuperada?
 
 ### Resultado Obtido
 
-A IA explicou:
-- autorrotação;
-- perda de eficiência do leme;
-- estol das superfícies de controle;
-- influência da distribuição de massa;
-- ausência de vento relativo suficiente.
+A IA explicou que o flat spin (parafuso chato) é uma condição extremamente perigosa porque a
+aeronave perde praticamente toda a eficiência aerodinâmica necessária para recuperar o controle.
+Durante o flat spin:
+- as superfícies de controle entram em estol;
+- o fluxo de ar deixa de atuar corretamente sobre o leme e profundores;
+- a aeronave perde estabilidade nos três eixos de rotação;
+- ocorre autorrotação contínua.
+A IA também explicou que o ATR 72-500 perdeu velocidade horizontal suficiente para que o leme
+pudesse gerar força aerodinâmica capaz de interromper a rotação.
+Além disso, a distribuição de massa da aeronave ajudaram a manter o avião em uma atitude quase
+plana, dificultando ainda mais a recuperação.
 
 ### Aprendizados
-
-Foi possível compreender por que o flat spin é uma das condições mais perigosas da aviação.
-
+Aprendi que o flat spin é uma das situações mais críticas da aviação porque a aeronave perde
+não apenas sustentação, mas também toda sua capacidade de controle de voo.
 ---
 
 # Dificuldades Encontradas
-
 - Alguns conceitos aerodinâmicos eram muito técnicos;
 - Certos prompts geravam respostas genéricas inicialmente;
-- Foi necessário refinar perguntas para obter respostas mais detalhadas;
-- Alguns termos exigiram pesquisa complementar para melhor entendimento.
-
+- Foi necessário melhorar a forma de perguntas para obter respostas melhores;
 ---
 
 # Glossário
-
 ## Stall (Estol)
 Perda de sustentação causada pelo excesso de ângulo de ataque.
-
 ## Ângulo de Ataque
 Ângulo entre a asa da aeronave e o vento relativo.
-
 ## Lift
 Força responsável por sustentar a aeronave no ar.
-
 ## Drag
 Resistência aerodinâmica ao avanço da aeronave.
-
 ## Flat Spin
 Parafuso chato caracterizado por rotação estabilizada e baixa capacidade de recuperação.
-
 ## Autorrotação
 Fenômeno em que diferenças aerodinâmicas entre as asas mantêm a rotação contínua da aeronave.
-
 ---
 
 # Conclusão
-
-O projeto demonstrou como conceitos de aerodinâmica podem ser aplicados na compreensão de acidentes aéreos reais.
-
-Além disso, mostrou como ferramentas de Inteligência Artificial podem auxiliar no aprendizado técnico, na investigação de fenômenos complexos e na construção de conhecimento de forma ativa e organizada.
-
+O projeto demonstrou como conceitos de aerodinâmica podem ser aplicados para facilitar a
+compreensão de acidentes aéreos reais. Além disso, fui capaz de perceber como ferramentas de
+Inteligência Artificial podem auxiliar no aprendizado de temas considerados complexos de forma
+eficaz.
 ---
 
 # Tecnologias e Ferramentas Utilizadas
-
 - NotebookLM
-- GitHub
-- Markdown
+- Ferramentas de busca online
 - Inteligência Artificial Generativa
